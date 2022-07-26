@@ -185,6 +185,7 @@ background-color: black;
     footer a {
       color: black;
       font-weight: bold;
+        text-align: center;
     }
     footer button {
       width: 40%;
